@@ -1,0 +1,3 @@
+1. Install PostgresSQL https://www.postgresql.org/download/macosx/
+2. Create Database and Table.
+3. Connect it in DBeaver with local host.
